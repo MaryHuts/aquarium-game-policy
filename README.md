@@ -20,7 +20,8 @@
    <li> Dostawcy Reklam (np. Google AdMob): Mogą zbierać identyfikatory reklamowe (Advertising ID), dane o urządzeniu i lokalizacji w celu personalizacji treści reklamowych. </li>
 
    <li> Lovable.dev / Frameworki: Narzędzia użyte do budowy aplikacji mogą zbierać anonimowe dane techniczne dotyczące stabilności aplikacji (tzw. crash reports).</li>
-   </ul>
+</ul>
+   
    </H4></p>
 
 <p>
