@@ -1,44 +1,44 @@
 # aquarium-game-policy
-<H1>Privacy Policy Aqua Pet Paradise</H1>
+<H1>Privacy Policy for Aqua Pet Paradise Last updated: February 2, 2026</H1>
 <p>
-<H2>1. Wstęp</H2></p>
+<H2>1. Introduction</H2></p>
 
-<p><h4>Niniejsza polityka prywatności określa zasady gromadzenia i przetwarzania danych w grze mobilnej Aqua Pet Paradise. Zależy nam na Twojej prywatności, dlatego ograniczamy zbieranie danych do absolutnego minimum niezbędnego do działania aplikacji.</h4></p>
-
-<p>
-<H2>2. Dane zbierane bezpośrednio przez Dewelopera</H2></p>
-
-<p><H4>Jako twórca gry, nie zbieram, nie przechowuję ani nie dzielę się Twoimi danymi osobowymi (takimi jak imię, nazwisko czy adres e-mail). Widzę jedynie ogólne, zanonimizowane statystyki udostępniane przez Google Play Console (np. liczbę pobrań).</H4></p>
+<p><h4>This privacy policy explains how we collect and process data in the Aqua Pet Paradise mobile game. We value your privacy and limit data collection to the absolute minimum required for the app to function.</h4></p>
 
 <p>
-<H2>3. Dane zbierane przez podmioty trzecie</H2></p>
+<H2>Data collected directly by the Developer</H2></p>
 
-<p><H4>W celu zapewnienia poprawnego działania gry oraz wyświetlania reklam, aplikacja korzysta z usług zewnętrznych dostawców, którzy mogą zbierać informacje służące do identyfikacji użytkownika. Są to m.in.:
+<p><H4>As the developer, I do not collect, store, or share your personal data (such as name or email). I only see anonymized statistics provided by the Google Play Console (e.g., number of downloads).</H4></p>
+
+<p>
+<H2>3. Third-Party Data Collection trzecie</H2></p>
+
+<p><H4>To ensure proper functionality and display ads, the app uses third-party services that may collect information used to identify the user:
 <ul>
-   <li> Google Play Services: (statystyki, osiągnięcia).</li>
+   <li> Google Play Services: (statistics, achievements).</li>
 
-   <li> Dostawcy Reklam (np. Google AdMob): Mogą zbierać identyfikatory reklamowe (Advertising ID), dane o urządzeniu i lokalizacji w celu personalizacji treści reklamowych. </li>
+   <li> Ad Providers (e.g., Google AdMob): May collect advertising identifiers (Advertising ID) and device data for ad personalization. </li>
 
-   <li> Lovable.dev / Frameworki: Narzędzia użyte do budowy aplikacji mogą zbierać anonimowe dane techniczne dotyczące stabilności aplikacji (tzw. crash reports).</li>
+   <li> Development Tools (Lovable.dev): May collect anonymous technical data regarding app stability (crash reports).</li>
 </ul>
    
    </H4></p>
 
 <p>
-<H2>4. Pliki Cookies i Identyfikatory</H2></p>
+<H2>4. Cookies and Identifier</H2></p>
 
-<p><H4>Biblioteki reklamowe mogą wykorzystywać unikalne identyfikatory urządzenia w celu analizy ruchu i dostarczania trafnych reklam. Możesz zarządzać tymi ustawieniami w opcjach prywatności swojego urządzenia Android.</H4></p>
-
-<p>
-<H2>5. Prywatność dzieci </H2></p>
-<p><H4>Nasza aplikacja jest bezpieczna dla użytkowników w każdym wieku. W przypadku wykrycia, że użytkownik jest dzieckiem (poniżej 13 roku życia lub odpowiedniego wieku w danym kraju UE), automatycznie ograniczamy działanie usług reklamowych podmiotów trzecich. Reklamy wyświetlane dzieciom nie są personalizowane (nie zbierają danych o zachowaniu użytkownika), zgodnie z wymogami RODO (GDPR) oraz COPPA. Nie zbieramy świadomie żadnych danych osobowych od dzieci.</H4></p>
+<p><H4>Advertising libraries may use unique device identifiers to analyze traffic and deliver relevant advertisements. You can manage these settings in the privacy options of your Android device.</H4></p>
 
 <p>
-<H2>6. Zmiany w polityce prywatności</H2></p>
-
-<p><H4>Zastrzegam sobie prawo do aktualizacji niniejszego dokumentu. Wszelkie zmiany będą publikowane bezpośrednio na tej stronie.</H4></p>
+<H2>5. Children's Privacy </H2></p>
+<p><H4>Our app is safe for users of all ages. If a user is identified as a child (under 13 or the relevant age in the EU), we automatically limit the use of third-party advertising services. Ads shown to children are non-personalized (they do not collect behavioral data), in compliance with GDPR and COPPA.</H4></p>
 
 <p>
-<H2>7. Kontakt</H2></p>
+<H2>6. Changes to the Privacy Policy</H2></p>
 
-<p><H4>Jeśli masz pytania dotyczące prywatności, napisz do mnie na adres: gutskalova.mary@gmail.com.</H4></p>
+<p><H4>I reserve the right to update this document. Any changes will be published directly on this page.</H4></p>
+
+<p>
+<H2>7. Contact</H2></p>
+
+<p><H4>If you have any questions, contact me at: gutskalova.mary@gmail.com.</H4></p>
