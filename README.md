@@ -14,13 +14,14 @@
 <H2>3. Dane zbierane przez podmioty trzecie</H2></p>
 
 <p><H4>W celu zapewnienia poprawnego działania gry oraz wyświetlania reklam, aplikacja korzysta z usług zewnętrznych dostawców, którzy mogą zbierać informacje służące do identyfikacji użytkownika. Są to m.in.:
+<ul>
+   <li> Google Play Services: (statystyki, osiągnięcia).</li>
 
-    Google Play Services: (statystyki, osiągnięcia).
+   <li> Dostawcy Reklam (np. Google AdMob): Mogą zbierać identyfikatory reklamowe (Advertising ID), dane o urządzeniu i lokalizacji w celu personalizacji treści reklamowych. </li>
 
-    Dostawcy Reklam (np. Google AdMob): Mogą zbierać identyfikatory reklamowe (Advertising ID), dane o urządzeniu i lokalizacji w celu personalizacji treści reklamowych.
-
-    Lovable.dev / Frameworki: Narzędzia użyte do budowy aplikacji mogą zbierać anonimowe dane techniczne dotyczące stabilności aplikacji (tzw. crash reports).</H4></p>
-
+   <li> Lovable.dev / Frameworki: Narzędzia użyte do budowy aplikacji mogą zbierać anonimowe dane techniczne dotyczące stabilności aplikacji (tzw. crash reports).</li>
+   </ul>
+   </H4></p>
 
 <p>
 <H2>4. Pliki Cookies i Identyfikatory</H2></p>
