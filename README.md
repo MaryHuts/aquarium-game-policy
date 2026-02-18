@@ -6,7 +6,7 @@
 <p><h4>This privacy policy explains how we collect and process data in the Aqua Pet Paradise mobile game. We value your privacy and limit data collection to the absolute minimum required for the app to function.</h4></p>
 
 <p>
-<H2>Data collected directly by the Developer</H2></p>
+<H2>2. Data collected directly by the Developer</H2></p>
 
 <p><H4>As the developer, I do not collect, store, or share your personal data (such as name or email). I only see anonymized statistics provided by the Google Play Console (e.g., number of downloads).</H4></p>
 
